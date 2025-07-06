@@ -1,3 +1,5 @@
+git add "dynamic loading animation/README.md"
+
 # 🎬 Background Video Project
 
 This project demonstrates how to build a **full-screen responsive background video landing page** using only **HTML and CSS**.
