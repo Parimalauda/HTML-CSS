@@ -17,3 +17,4 @@ This project demonstrates how to build a **full-screen responsive background vid
 - Clean and minimal design
 
 
+Deleted readme.md from background-video/Assets
