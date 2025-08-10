@@ -8,9 +8,6 @@ This project is a simple HTML & CSS implementation of a flipping card animation.
 - Front and back card design.
 - Responsive layout.
 
-## Demo Screenshot
-![Card Demo](images/demo img.png)
-
 ## How to Use
 1. Clone the repository:
    ```bash
