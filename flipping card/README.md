@@ -8,9 +8,10 @@ This project is a simple HTML & CSS implementation of a flipping card animation.
 - Front and back card design.
 - Responsive layout.
 
+  ## Demo
+[Live Demo](https://parimalauda.github.io/HTML-CSS/flipping%20card/)
+
 ## How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/Parimalauda/HTML-CSS.git
-## Project link
-https://parimalauda.github.io/HTML-CSS/flipping%20card/
