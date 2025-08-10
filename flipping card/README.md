@@ -9,7 +9,7 @@ This project is a simple HTML & CSS implementation of a flipping card animation.
 - Responsive layout.
 
 ## Demo Screenshot
-![Card Demo](images/logo.png)
+![Card Demo](images/demo img.png)
 
 ## How to Use
 1. Clone the repository:
