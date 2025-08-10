@@ -1,6 +1,6 @@
 # Portfolio Card
 
-A sleek, responsive portfolio card built with HTML and CSS to showcase your skills, projects, and contact information in a clean and modern design.
+A sleek, responsive portfolio card built with HTML and CSS to showcase skills, projects, and contact information in a clean and modern design.
 
 ## Features
 
@@ -11,11 +11,10 @@ A sleek, responsive portfolio card built with HTML and CSS to showcase your skil
 
 ## Demo
 
-[Live Demo Link](https://your-username.github.io/portfolio-card)  
-*(Replace with your actual GitHub Pages or hosting URL)*
+[Live Demo](https://Parimalauda.github.io/HTML-CSS/portfolio%20card/)
 
 ## Installation
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/portfolio-card.git
+   git clone https://github.com/Parimalauda/HTML-CSS.git
