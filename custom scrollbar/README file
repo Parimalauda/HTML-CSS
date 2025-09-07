@@ -1,0 +1,22 @@
+# Custom Scrollbar
+
+This folder contains examples and styling techniques to create **custom scrollbars** using CSS. Custom scrollbars enhance the visual appearance and usability of web pages by providing a unique look and feel that matches your design preferences.
+
+---
+
+## 📂 Features
+
+✔ Custom scrollbar width and appearance  
+✔ Styling the scrollbar track and thumb  
+✔ Hover effects on the scrollbar thumb  
+✔ Smooth and modern scrollbar design  
+✔ Compatible with major browsers (using `::-webkit-scrollbar`)  
+✔ Simple and easy-to-understand CSS examples  
+
+---
+
+## 📖 How to Use
+
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/Parimalauda/HTML-CSS.git
